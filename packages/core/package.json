@@ -1,6 +1,6 @@
 {
   "name": "@pa-cli-dev/core",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "pa-cli-dev core",
   "author": "袁国 <yuanguo@dongfangfuli.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@pa-cli-dev/utils": "^1.0.2"
+    "@pa-cli-dev/utils": "^1.0.5"
   },
   "gitHead": "6335b100f273fc7b82c8d55af387ece0922aca9b",
   "publishConfig": {
