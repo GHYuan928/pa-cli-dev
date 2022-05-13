@@ -1,6 +1,6 @@
 {
   "name": "@pa-cli-dev/utils",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "袁国 <yuanguo@dongfangfuli.com>",
   "homepage": "",
@@ -16,7 +16,7 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "46e1a598e5c67702db39a480e74c08182f8d6f55",
+  "gitHead": "6335b100f273fc7b82c8d55af387ece0922aca9b",
   "publishConfig": {
     "access": "public"
   }

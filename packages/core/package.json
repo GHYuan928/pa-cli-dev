@@ -1,6 +1,6 @@
 {
   "name": "@pa-cli-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "pa-cli-dev core",
   "author": "袁国 <yuanguo@dongfangfuli.com>",
   "homepage": "",
@@ -19,7 +19,7 @@
   "dependencies": {
     "@pa-cli-dev/utils": "^1.0.2"
   },
-  "gitHead": "46e1a598e5c67702db39a480e74c08182f8d6f55",
+  "gitHead": "6335b100f273fc7b82c8d55af387ece0922aca9b",
   "publishConfig": {
     "access": "public"
   }
