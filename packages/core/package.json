@@ -19,7 +19,7 @@
   "dependencies": {
     "@pa-cli-dev/utils": "^1.0.6"
   },
-  "gitHead": "0d8e00e78fe1787871f3f03617c61c375a19e3d2",
+  "gitHead": "69b68f3b4ec1a36a4d2d77bc7fc76bf1df99a667",
   "publishConfig": {
     "access": "public"
   }

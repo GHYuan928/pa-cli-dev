@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-console.log("hello @pa-cli-dev/core hello");
+console.log("hello @pa-cli-dev/core hello ");
