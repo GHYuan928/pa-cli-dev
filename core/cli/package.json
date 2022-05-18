@@ -10,6 +10,9 @@
     "lib": "lib",
     "test": "__tests__"
   },
+  "bin": {
+    "pa-cli-dev": "bin/index.js"
+  },
   "files": [
     "lib"
   ],
@@ -17,7 +20,9 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@pa-cli-dev/utils": "^1.0.7"
+    "@pa-cli-dev/utils": "^1.0.7",
+    "import-local": "^3.1.0",
+    "npmlog": "^6.0.2"
   },
   "gitHead": "69b68f3b4ec1a36a4d2d77bc7fc76bf1df99a667",
   "publishConfig": {
