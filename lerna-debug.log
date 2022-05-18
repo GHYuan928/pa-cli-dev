@@ -1,6 +1,8 @@
-42 error Error: Command failed with exit code 128: git tag v1.0.1 -m v1.0.1
-42 error fatal: tag 'v1.0.1' already exists
-42 error     at makeError (/Users/guoyuan/Desktop/imooc/pa-cli-dev/PA_CLI_DEV/node_modules/execa/lib/error.js:60:11)
-42 error     at handlePromise (/Users/guoyuan/Desktop/imooc/pa-cli-dev/PA_CLI_DEV/node_modules/execa/index.js:118:26)
-42 error     at processTicksAndRejections (internal/process/task_queues.js:93:5)
-42 error     at async Promise.all (index 0)
+38 error Error: Command failed with exit code 1: git add -- utils/utils/package.json core/cli/package.json core/cli/package-lock.json lerna.json
+38 error The following paths are ignored by one of your .gitignore files:
+38 error core/cli/package-lock.json
+38 error Use -f if you really want to add them.
+38 error     at makeError (/Users/guoyuan/Desktop/imooc/pa-cli-dev/PA_CLI_DEV/node_modules/execa/lib/error.js:60:11)
+38 error     at handlePromise (/Users/guoyuan/Desktop/imooc/pa-cli-dev/PA_CLI_DEV/node_modules/execa/index.js:118:26)
+38 error     at processTicksAndRejections (internal/process/task_queues.js:93:5)
+38 error     at async Promise.all (index 0)
