@@ -4,5 +4,5 @@ const importlocal = require("import-local");
 if (importlocal(__filename)) {
   require("npmlog").info("cli", "正在使用 pa-cli-dev 本地版本");
 } else {
-  require("../lib")(process.argv(2));
+  require("../lib")();
 }
